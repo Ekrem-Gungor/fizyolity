@@ -3,17 +3,17 @@ import Link from "next/link";
 
 const galleryData = [
   {
-    src: `${process.env.NEXT_PUBLIC_SITE_URL}galeri-2.webp`,
+    src: "https://res.cloudinary.com/djoo0k153/image/upload/v1750773036/galeri-2_jdtjei.webp",
     alt: "Fizyolity Image 1",
     label: "Fizyolity",
   },
   {
-    src: `${process.env.NEXT_PUBLIC_SITE_URL}galeri-3.webp`,
+    src: "https://res.cloudinary.com/djoo0k153/image/upload/v1750773044/galeri-3_oufyay.webp",
     alt: "Fizyolity Image 2",
     label: "Fizyolity",
   },
   {
-    src: `${process.env.NEXT_PUBLIC_SITE_URL}galeri-4.webp`,
+    src: "https://res.cloudinary.com/djoo0k153/image/upload/v1750773041/galeri-4_mhu0uu.webp",
     alt: "Fizyolity Image 3",
     label: (
       <Link

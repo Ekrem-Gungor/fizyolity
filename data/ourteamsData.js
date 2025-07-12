@@ -2,7 +2,7 @@ const teamMembers = [
   {
     name: "Fatma Çakıllı",
     role: "kurucu-fizyoterapist",
-    image: `${process.env.NEXT_PUBLIC_SITE_URL}fatma.webp`,
+    image: "https://res.cloudinary.com/djoo0k153/image/upload/v1750773032/fatma_eiplab.webp",
     areas: [
       "Kronik Ağrı ve Stres",
       "Ameliyat sonrası tedavi süreci",
@@ -17,7 +17,7 @@ const teamMembers = [
   {
     name: "Umut Küçük",
     role: "fizyoterapist",
-    image: `${process.env.NEXT_PUBLIC_SITE_URL}umut.webp`,
+    image: "https://res.cloudinary.com/djoo0k153/image/upload/v1750773031/umut_flvbri.webp",
     areas: [
       "Kronik Ağrı ve Stres",
       "Fonksiyonel Tıp Diyetisyenliği",
@@ -29,7 +29,7 @@ const teamMembers = [
   {
     name: "Büşra Çakıllı",
     role: "diyetisyen",
-    image: `${process.env.NEXT_PUBLIC_SITE_URL}busra.webp`,
+    image: "https://res.cloudinary.com/djoo0k153/image/upload/v1750773030/busra_a2qe28.webp",
     areas: [
       "Sporcu beslenmesi",
       "Fonksiyonel Tıp Diyetisyenliği",
@@ -42,7 +42,7 @@ const teamMembers = [
   {
     name: "Çağla Aydın",
     role: "fizyoterapist",
-    image: `${process.env.NEXT_PUBLIC_SITE_URL}Cagla.webp`,
+    image: "https://res.cloudinary.com/djoo0k153/image/upload/v1750773030/Cagla_xnee0x.webp",
     areas: [
       "Kronik Ağrı ve Stres",
       "Ameliyat sonrası tedavi süreçleri",
